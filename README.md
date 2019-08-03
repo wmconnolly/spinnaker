@@ -19,6 +19,9 @@
 - `.select-{}` for text selection
 
 #### spinnaker.min.css worth 16kb
+```
+curl -O https://raw.githubusercontent.com/wmconnolly/spinnaker/master/spinnaker.min.css
+```
 
 ----
 <p align="center">
