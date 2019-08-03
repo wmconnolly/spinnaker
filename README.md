@@ -1,3 +1,25 @@
+# Tailwind's colours, shadows, border radius are *fantastic*. 
+## Have them available in your project, even if Tailwind proper isn't.
+
+## Available classes for:
+### shadow
+- `.shadow-{}` for box shadow
+### background
+- `.bg-{color}-{x00}`
+### border
+- `.border-{color}-{x00}`
+- `.rounded-{}` for radius
+- `.border-{}` for width
+### font
+- `.font-{}`
+### text
+- `.text-{color}-{x00}`
+- `.text-{}` for size
+- `.tracking-{}` for letter spacing
+- `.select-{}` for text selection
+
+
+----
 <p align="center">
     <a href="https://tailwindcss.com/" target="_blank"><img width="200" src="https://tailwindcss.com/img/tailwind.svg"></a><br>
     A utility-first CSS framework for rapidly building custom user interfaces.
